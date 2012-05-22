@@ -2,7 +2,7 @@
 # Demo Programm für PostgresQL in Ruby
 # 
 
-require 'postgres'
+require 'pg'
 
 PG_HOST = "localhost"
 PG_PORT = 5432
