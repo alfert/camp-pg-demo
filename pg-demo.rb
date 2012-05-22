@@ -6,7 +6,7 @@ require 'postgres'
 
 PG_HOST = "localhost"
 PG_PORT = 5432
-PG_DB = "camp2012DB"
+PG_DB = "camp2012db"
 PG_USER = "zeg"
 PG_PASSWORD = "geheim!"
 
